@@ -1,0 +1,39 @@
+attributeName: q, qa, MANUFACTURER, 149char, 150char,  qwe123, $%^, Вася, Empty, ~151char, ~200char
+attributeValue: q, qa, Intel, 254char, 255char, qwe123, $%^, Вася, Empty, ~256char, ~400char
+categoryId: _1, _2, _3, _4, _5, ~_0, ~_6, ~-9223372036854775808_, ~-9223372036854775807_, ~9223372036854775807_, ~-9223372036854775809_, ~9223372036854775808_, ~9223372036854775806_, ~92233720368547758080_, ~-92233720368547758080_, ~qwe123, ~$%^, ~Вася, ~Empty, ~3.5
+code: q, qa, C3C3C3, 254char, 255char, qwe123, $%^, Вася, Empty, ~256char, ~400char
+inStock: _0, _1, 2147483647_, 2147483646_, ~-2147483648_, ~-2147483647_, ~-2147483649_, ~2147483648_, ~-21474836480_, ~21474836470_, ~qwe123, ~$%^, ~Вася, ~Empty, ~3.5 
+name: q, qa, GRAY, 254char, 255char, qwe123, $%^, Вася, Empty, ~256char, ~400char
+description: q, qa, Intel, 2048char, 2047char, qwe123, $%^, Вася, Empty, ~2049char, ~2500char
+imageUrl: q, qa, 1100_, 254char, 255char, qwe123, $%^, Вася, Empty, ~256char, ~400char
+images: q, qa, DD3A5B##1101, 254char, 255char, qwe123, $%^, Вася, Empty, ~256char, ~400char
+productId: _1, _2, _3, _34, _33, ~_35, ~_0, ~-9223372036854775808_, ~-9223372036854775807_, ~9223372036854775807_, ~-9223372036854775809_, ~9223372036854775808_, ~9223372036854775806_, ~92233720368547758080_, ~-92233720368547758080_, ~qwe123, ~$%^, ~Вася, ~Empty, ~3.5  
+price: 335.5, 1.7976931348623157E308, 1.7976931348623157E308-1, -1.79769313486231E+308, -1.79769313486231E+308+1, ~_0, ~1, ~1.7976931348623157E308+1, ~-1.79769313486231E+308-1, ~1.7976931348623157*10E309, ~-1.7976931348623157*10E309, ~qwe123, ~$%^, ~Вася, ~Empty
+productName: q, qa, HP Pavilion 15t, 254char, 255char, qwe123, $%^, Вася, Empty, ~256char, ~400char
+productStatus: Active, ~Inactive, ~q, ~qa, ~qwertyuio, ~qwertyuiop, ~qwe123, ~$%^, ~Вася, ~Empty, ~qwertyuiopa, ~qwertyuiopasdfghjk
+
+IF [attributeName] IN {"Empty", "151char", "200char"} THEN [attributeValue] = "Intel" AND [code] = "C3C3C3" AND [name] = "GRAY" AND [description] = "Intel" AND [images] = "DD3A5B##1101" AND [productName] = "HP Pavilion 15t" AND [productStatus] = "Active" AND [categoryId] = "_1" AND [inStock] = "_1" AND [productId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";
+
+IF [attributeValue] IN {"Empty", "256char", "400char"} THEN [attributeName] = "MANUFACTURER" AND [code] = "C3C3C3" AND [name] = "GRAY" AND [description] = "Intel" AND [images] = "DD3A5B##1101" AND [productName] = "HP Pavilion 15t" AND [productStatus] = "Active" AND [categoryId] = "_1" AND [inStock] = "_1" AND [productId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";
+
+IF [categoryId] IN {"_0", "_6", "-9223372036854775808_", "-9223372036854775807_", "9223372036854775807_", "-9223372036854775809_", "9223372036854775808_", "9223372036854775806_", "92233720368547758080_", "-92233720368547758080_", "qwe123", "$%^", "Вася", "Empty", "3.5"} THEN [attributeName] = "MANUFACTURER" AND [attributeValue] = "Intel" AND [code] = "C3C3C3" AND [name] = "GRAY" AND [description] = "Intel" AND [images] = "DD3A5B##1101" AND [productName] = "HP Pavilion 15t" AND [productStatus] = "Active" AND [inStock] = "_1" AND [productId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";
+
+IF [code] IN {"Empty", "256char", "400char"} THEN [attributeName] = "MANUFACTURER" AND [attributeValue] = "Intel" AND [name] = "GRAY" AND [description] = "Intel" AND [images] = "DD3A5B##1101" AND [productName] = "HP Pavilion 15t" AND [productStatus] = "Active" AND [categoryId] = "_1" AND [inStock] = "_1" AND [productId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";
+
+IF [inStock] IN {"-2147483648_", "-2147483647_", "-2147483649_", "2147483648_", "-21474836480_", "21474836470_", "qwe123", "$%^", "Вася", "Empty", "3.5"} THEN [attributeName] = "MANUFACTURER" AND [attributeValue] = "Intel" AND [code] = "C3C3C3" AND [name] = "GRAY" AND [description] = "qa" AND [images] = "qa" AND [productName] = "qa" AND [productStatus] = "Active" AND [productId] = "_1" AND [categoryId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";
+ 
+IF [name] IN {"Empty", "256char", "400char"} THEN [attributeName] = "MANUFACTURER" AND [code] = "C3C3C3" AND [attributeValue] = "Intel" AND [description] = "Intel" AND [images] = "DD3A5B##1101" AND [productName] = "HP Pavilion 15t" AND [productStatus] = "Active" AND [categoryId] = "_1" AND [inStock] = "_1" AND [productId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";
+
+IF [description] IN {"Empty", "2049char", "2500char"} THEN [attributeName] = "MANUFACTURER" AND [code] = "C3C3C3" AND [attributeValue] = "Intel" AND [name] = "GRAY" AND [images] = "DD3A5B##1101" AND [productName] = "HP Pavilion 15t" AND [productStatus] = "Active" AND [categoryId] = "_1" AND [inStock] = "_1" AND [productId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";
+
+IF [images] IN {"Empty", "256char", "400char"} THEN [attributeName] = "MANUFACTURER" AND [code] = "C3C3C3" AND [attributeValue] = "Intel" AND [description] = "Intel" AND [name] = "qa" AND [productName] = "HP Pavilion 15t" AND [productStatus] = "Active" AND [categoryId] = "_1" AND [inStock] = "_1" AND [productId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";
+
+IF [imageUrl] IN {"Empty", "256char", "400char"} THEN [attributeName] = "MANUFACTURER" AND [code] = "C3C3C3" AND [attributeValue] = "Intel" AND [description] = "Intel" AND [name] = "GRAY" AND [images] = "DD3A5B##1101" AND [productStatus] = "Active" AND [categoryId] = "_1" AND [inStock] = "_1" AND [productId] = "_1" AND [price] = "335.5" AND [productName] = "HP Pavilion 15t";
+
+IF [productId] IN {"_0", "_35", "-9223372036854775808_", "-9223372036854775807_", "9223372036854775807_", "-9223372036854775809_", "9223372036854775808_", "9223372036854775806_", "92233720368547758080_", "-92233720368547758080_", "qwe123", "$%^", "Вася", "Empty", "3.5"} THEN [attributeName] = "MANUFACTURER" AND [attributeValue] = "Intel" AND [code] = "C3C3C3" AND [name] = "GRAY" AND [description] = "Intel" AND [images] = "DD3A5B##1101" AND [productName] = "HP Pavilion 15t" AND [productStatus] = "Active" AND [inStock] = "_1" AND [categoryId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";
+
+IF [price] IN {"_0", "1", "1.7976931348623157E308+1", "-1.79769313486231E+308-1", "1.7976931348623157*10E309", "-1.7976931348623157*10E309", "qwe123", "$%^", "Вася", "Empty"} THEN [attributeName] = "MANUFACTURER" AND [attributeValue] = "Intel" AND [code] = "C3C3C3" AND [name] = "GRAY" AND [description] = "Intel" AND [images] = "DD3A5B##1101" AND [productName] = "qa" AND [productStatus] = "Active" AND [inStock] = "_1" AND [categoryId] = "_1" AND [productId] = "_1" AND [imageUrl] = "1100_";
+
+IF [productName] IN {"Empty", "256char", "400char"} THEN [attributeName] = "MANUFACTURER" AND [code] = "C3C3C3" AND [attributeValue] = "Intel" AND [description] = "Intel" AND [name] = "GRAY" AND [images] = "DD3A5B##1101" AND [productStatus] = "Active" AND [categoryId] = "_1" AND [inStock] = "_1" AND [productId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";
+
+IF [productStatus] IN {"Inactive", "q", "qa", "qwertyuio", "qwertyuiop", "qwe123", "$%^", "Вася", "Empty","qwertyuiopa", "qwertyuiopasdfghjk"} THEN [attributeName] = "MANUFACTURER" AND [code] = "C3C3C3" AND [attributeValue] = "Intel" AND [description] = "Intel" AND [name] = "GRAY" AND [images] = "DD3A5B##1101" AND [productName] = "HP Pavilion 15t" AND [categoryId] = "_1" AND [inStock] = "_1" AND [productId] = "_1" AND [price] = "335.5" AND [imageUrl] = "1100_";

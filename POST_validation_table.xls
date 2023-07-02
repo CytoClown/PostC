@@ -1,0 +1,197 @@
+attributeName	attributeValue	categoryId	code	inStock	name	description	imageUrl	images	productId	price	productName	productStatus
+150char	254char	_2	qa	2147483646_	qwe123	qwe123	Вася	$%^	_3	-1.79769313486231E+308	254char	Active
+MANUFACTURER	qwe123	_5	254char	_0	q	2048char	qa	254char	_33	335.5	$%^	Active
+qa	q	_3	q	_1	qa	q	1100_	255char	_2	1.7976931348623157E308	q	Active
+$%^	qa	_1	255char	2147483647_	$%^	2047char	q	qa	_34	-1.79769313486231E+308+1	qwe123	Active
+q	255char	_4	qwe123	_1	Вася	$%^	254char	qwe123	_1	1.7976931348623157E308-1	$%^	Active
+Вася	q	_5	C3C3C3	2147483647_	GRAY	Вася	$%^	q	_3	1.7976931348623157E308-1	Вася	Active
+qwe123	$%^	_4	$%^	2147483646_	255char	qa	qwe123	qa	_2	335.5	HP Pavilion 15t	Active
+149char	Intel	_1	Вася	_0	254char	Intel	255char	DD3A5B##1101	_1	1.7976931348623157E308	254char	Active
+149char	Вася	_3	254char	2147483646_	255char	Intel	1100_	Вася	_3	-1.79769313486231E+308+1	$%^	Active
+qwe123	255char	_2	254char	2147483647_	254char	q	254char	q	_34	-1.79769313486231E+308	HP Pavilion 15t	Active
+qwe123	qa	_3	$%^	_1	$%^	$%^	$%^	$%^	_33	1.7976931348623157E308	255char	Active
+q	Intel	_2	C3C3C3	_0	q	2047char	$%^	qwe123	_2	-1.79769313486231E+308	qa	Active
+qa	qa	_4	qa	_0	GRAY	Вася	Вася	Вася	_1	335.5	q	Active
+150char	Вася	_5	q	2147483647_	Вася	qa	qwe123	DD3A5B##1101	_33	-1.79769313486231E+308+1	q	Active
+149char	$%^	_1	qwe123	_0	qa	qwe123	q	255char	_33	1.7976931348623157E308-1	HP Pavilion 15t	Active
+Вася	qwe123	_2	255char	_1	qwe123	qa	qa	255char	_1	-1.79769313486231E+308	Вася	Active
+$%^	$%^	_3	Вася	2147483647_	qwe123	2048char	1100_	qwe123	_34	335.5	254char	Active
+MANUFACTURER	254char	_5	qwe123	_1	255char	Вася	255char	254char	_34	-1.79769313486231E+308+1	qa	Active
+$%^	qwe123	_1	q	2147483646_	GRAY	2047char	254char	254char	_3	1.7976931348623157E308	HP Pavilion 15t	Active
+qa	q	_4	C3C3C3	2147483646_	q	2048char	qa	$%^	_1	-1.79769313486231E+308+1	HP Pavilion 15t	Active
+qa	qwe123	_5	255char	2147483646_	254char	$%^	Вася	DD3A5B##1101	_2	1.7976931348623157E308-1	qwe123	Active
+Вася	Вася	_4	255char	_0	$%^	q	255char	DD3A5B##1101	_3	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_4	$%^	2147483647_	qa	qwe123	Вася	Вася	_34	-1.79769313486231E+308+1	Вася	Active
+150char	q	_1	qwe123	_1	$%^	2048char	qwe123	Вася	_2	-1.79769313486231E+308	255char	Active
+q	254char	_2	q	2147483646_	Вася	Intel	q	q	_33	335.5	Вася	Active
+Вася	254char	_3	254char	_1	q	qwe123	qwe123	qa	_1	1.7976931348623157E308	qwe123	Active
+150char	255char	_1	255char	_0	qwe123	Вася	qwe123	q	_34	1.7976931348623157E308	$%^	Active
+MANUFACTURER	qa	_2	qwe123	2147483647_	qwe123	Intel	qa	qa	_3	1.7976931348623157E308-1	q	Active
+qa	Intel	_4	Вася	_1	Вася	$%^	q	254char	_3	-1.79769313486231E+308	255char	Active
+$%^	255char	_4	q	2147483646_	qwe123	2047char	255char	Вася	_33	1.7976931348623157E308-1	qa	Active
+149char	$%^	_5	q	2147483647_	255char	q	Вася	qwe123	_1	-1.79769313486231E+308	255char	Active
+q	254char	_1	$%^	_0	GRAY	qa	1100_	255char	_34	1.7976931348623157E308-1	255char	Active
+$%^	Вася	_1	C3C3C3	_1	254char	qwe123	254char	$%^	_34	335.5	q	Active
+MANUFACTURER	255char	_5	Вася	2147483646_	GRAY	q	$%^	qa	_2	-1.79769313486231E+308+1	254char	Active
+q	Вася	_3	qa	2147483647_	qa	$%^	qa	q	_2	1.7976931348623157E308	qa	Active
+$%^	qa	_2	$%^	2147483646_	qa	Вася	255char	DD3A5B##1101	_2	-1.79769313486231E+308	$%^	Active
+qwe123	q	_2	$%^	_0	Вася	2048char	qa	qwe123	_3	1.7976931348623157E308	qwe123	Active
+150char	Intel	_3	Вася	_0	255char	q	qwe123	$%^	_33	1.7976931348623157E308-1	Вася	Active
+q	$%^	_5	qa	2147483647_	254char	Вася	255char	255char	_33	-1.79769313486231E+308+1	qwe123	Active
+150char	$%^	_3	254char	_1	GRAY	2047char	255char	$%^	_1	335.5	qa	Active
+Вася	q	_2	qa	_0	qwe123	Intel	254char	254char	_2	-1.79769313486231E+308+1	255char	Active
+149char	255char	_1	qa	_1	GRAY	2048char	q	DD3A5B##1101	_33	1.7976931348623157E308	Вася	Active
+qwe123	Вася	_4	q	2147483646_	q	$%^	$%^	255char	_34	1.7976931348623157E308-1	254char	Active
+$%^	qa	_5	C3C3C3	_0	255char	qa	qwe123	255char	_3	1.7976931348623157E308	254char	Active
+Вася	Intel	_3	255char	2147483646_	$%^	2048char	254char	qa	_33	1.7976931348623157E308-1	qa	Active
+qa	qwe123	_1	254char	2147483647_	$%^	Intel	255char	qwe123	_34	335.5	Вася	Active
+149char	255char	_3	$%^	2147483647_	254char	qa	qwe123	254char	_3	335.5	qa	Active
+MANUFACTURER	254char	_2	255char	2147483646_	GRAY	$%^	qwe123	qwe123	_33	-1.79769313486231E+308	q	Active
+MANUFACTURER	Вася	_4	qwe123	2147483647_	q	2047char	1100_	q	_1	-1.79769313486231E+308	Вася	Active
+qwe123	qwe123	_3	254char	_1	Вася	Вася	q	Вася	_1	335.5	254char	Active
+149char	q	_1	C3C3C3	_0	Вася	$%^	1100_	qa	_33	335.5	HP Pavilion 15t	Active
+150char	255char	_5	C3C3C3	2147483647_	qa	Intel	1100_	$%^	_2	335.5	qwe123	Active
+149char	254char	_2	Вася	2147483647_	$%^	qa	q	$%^	_2	1.7976931348623157E308	$%^	Active
+MANUFACTURER	$%^	_1	Вася	_1	q	qa	Вася	q	_3	1.7976931348623157E308	255char	Active
+$%^	Intel	_1	qwe123	2147483646_	qwe123	q	$%^	254char	_1	335.5	qwe123	Active
+149char	q	_4	Вася	_0	255char	2047char	254char	DD3A5B##1101	_34	-1.79769313486231E+308	qwe123	Active
+q	qwe123	_4	254char	_0	Вася	qwe123	$%^	DD3A5B##1101	_2	-1.79769313486231E+308+1	$%^	Active
+q	254char	_5	C3C3C3	_1	qwe123	$%^	Вася	Вася	_3	-1.79769313486231E+308+1	HP Pavilion 15t	Active
+qa	qwe123	_5	$%^	_0	qa	qa	254char	q	_33	-1.79769313486231E+308+1	254char	Active
+Вася	qwe123	_2	qa	2147483646_	254char	Вася	1100_	qa	_34	335.5	255char	Active
+MANUFACTURER	Intel	_3	q	_0	254char	2047char	qa	255char	_34	-1.79769313486231E+308	$%^	Active
+q	qa	_1	Вася	2147483646_	$%^	q	qa	Вася	_1	1.7976931348623157E308	qa	Active
+149char	$%^	_2	255char	_1	qa	2048char	$%^	254char	_1	1.7976931348623157E308-1	q	Active
+149char	qa	_5	$%^	_0	q	qwe123	255char	q	_1	-1.79769313486231E+308	q	Active
+150char	qa	_5	q	2147483646_	254char	Вася	q	qwe123	_3	-1.79769313486231E+308+1	HP Pavilion 15t	Active
+qa	Intel	_2	254char	_0	255char	qa	$%^	Вася	_3	1.7976931348623157E308-1	q	Active
+MANUFACTURER	254char	_3	qa	_1	q	Intel	$%^	DD3A5B##1101	_3	1.7976931348623157E308-1	HP Pavilion 15t	Active
+149char	qwe123	_3	qwe123	2147483646_	Вася	Intel	Вася	255char	_3	-1.79769313486231E+308	qa	Active
+qwe123	255char	_5	qwe123	_0	$%^	qwe123	Вася	254char	_2	1.7976931348623157E308	Вася	Active
+Вася	255char	_1	255char	_1	255char	qwe123	qa	Вася	_34	1.7976931348623157E308	255char	Active
+150char	qwe123	_4	qa	2147483646_	Вася	q	$%^	qa	_34	1.7976931348623157E308	$%^	Active
+q	q	_4	255char	2147483646_	Вася	2048char	255char	qa	_3	-1.79769313486231E+308	254char	Active
+qwe123	$%^	_5	q	2147483647_	$%^	qwe123	1100_	DD3A5B##1101	_33	335.5	qa	Active
+qwe123	Вася	_5	C3C3C3	_0	qwe123	2047char	q	DD3A5B##1101	_33	-1.79769313486231E+308+1	q	Active
+Вася	254char	_4	$%^	2147483647_	qa	2047char	q	qwe123	_3	335.5	254char	Active
+qwe123	Intel	_5	254char	_1	GRAY	2048char	Вася	255char	_33	335.5	$%^	Active
+qa	Вася	_4	qwe123	_1	254char	2047char	qwe123	254char	_2	1.7976931348623157E308-1	254char	Active
+$%^	$%^	_3	C3C3C3	2147483647_	Вася	$%^	qa	qa	_3	-1.79769313486231E+308+1	Вася	Active
+$%^	254char	_1	qa	2147483646_	Вася	2047char	qa	DD3A5B##1101	_2	335.5	255char	Active
+Вася	Вася	_1	qwe123	2147483647_	GRAY	qa	255char	$%^	_33	1.7976931348623157E308	qwe123	Active
+MANUFACTURER	Вася	_2	Вася	2147483646_	$%^	Вася	qa	$%^	_3	1.7976931348623157E308-1	255char	Active
+qwe123	254char	_1	qa	_1	255char	2048char	255char	q	_1	1.7976931348623157E308	255char	Active
+150char	qa	_3	254char	_1	q	Вася	254char	254char	_1	-1.79769313486231E+308+1	Вася	Active
+qa	q	_5	Вася	_0	qa	qwe123	Вася	qa	_33	335.5	$%^	Active
+qa	255char	_4	Вася	2147483646_	$%^	Intel	254char	255char	_2	335.5	q	Active
+qwe123	$%^	_1	255char	_1	q	Intel	254char	Вася	_3	-1.79769313486231E+308	qwe123	Active
+$%^	q	_4	254char	_1	$%^	Intel	Вася	q	_3	-1.79769313486231E+308+1	255char	Active
+Вася	$%^	_4	q	2147483646_	Вася	$%^	Вася	$%^	_2	1.7976931348623157E308-1	$%^	Active
+qwe123	q	_5	qa	2147483646_	qa	qa	qwe123	qwe123	_2	1.7976931348623157E308	255char	Active
+MANUFACTURER	254char	_5	C3C3C3	_0	q	q	254char	q	_34	1.7976931348623157E308	qwe123	Active
+q	qwe123	_4	255char	2147483647_	255char	$%^	q	$%^	_33	1.7976931348623157E308	q	Active
+q	qwe123	_1	Вася	2147483647_	GRAY	Intel	qwe123	254char	_1	-1.79769313486231E+308+1	HP Pavilion 15t	Active
+150char	Вася	_4	qa	2147483646_	$%^	qwe123	qa	qwe123	_3	335.5	254char	Active
+MANUFACTURER	q	_3	q	2147483646_	254char	2048char	q	Вася	_34	1.7976931348623157E308-1	qa	Active
+$%^	qa	_3	C3C3C3	_1	q	2048char	1100_	254char	_34	1.7976931348623157E308	255char	Active
+qa	Вася	_5	$%^	2147483647_	qwe123	q	Вася	qa	_1	-1.79769313486231E+308+1	HP Pavilion 15t	Active
+qwe123	Intel	_3	Вася	_1	q	q	q	q	_33	335.5	HP Pavilion 15t	Active
+Вася	255char	_5	qwe123	_1	q	$%^	255char	DD3A5B##1101	_1	1.7976931348623157E308-1	q	Active
+qa	$%^	_3	C3C3C3	2147483646_	$%^	2047char	Вася	qa	_1	335.5	qa	Active
+150char	254char	_4	254char	2147483647_	254char	$%^	$%^	qa	_1	335.5	Вася	Active
+qa	254char	_4	$%^	_0	qa	Intel	1100_	qa	_33	1.7976931348623157E308-1	$%^	Active
+149char	qwe123	_5	C3C3C3	_0	qwe123	Вася	qa	qa	_1	1.7976931348623157E308-1	$%^	Active
+Вася	qa	_1	C3C3C3	2147483646_	GRAY	qwe123	255char	255char	_3	1.7976931348623157E308-1	255char	Active
+150char	qa	_2	$%^	2147483647_	Вася	2048char	1100_	255char	_3	-1.79769313486231E+308+1	$%^	Active
+$%^	Intel	_2	q	2147483646_	qa	Вася	1100_	qa	_1	1.7976931348623157E308	qwe123	Active
+Вася	Вася	_3	254char	2147483647_	qwe123	2048char	q	255char	_33	335.5	qa	Active
+q	Intel	_5	qa	2147483647_	GRAY	$%^	qa	qa	_33	-1.79769313486231E+308	HP Pavilion 15t	Active
+MANUFACTURER	254char	_4	255char	_1	Вася	2047char	1100_	Вася	_3	-1.79769313486231E+308+1	Вася	Active
+Вася	Intel	_2	254char	2147483646_	qa	qa	$%^	$%^	_33	335.5	qwe123	Active
+Вася	255char	_3	Вася	_1	q	q	qwe123	Вася	_2	1.7976931348623157E308-1	254char	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	~400char	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	~400char	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	~Empty	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	~256char	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	~Empty	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~qwe123	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	~Empty	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~$%^	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	~-9223372036854775808_	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	qa	Intel	1100_	~Empty	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	~$%^	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	~2500char	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	~-9223372036854775807_	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	~400char	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	~Empty	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~3.5	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~qwe123
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~-9223372036854775807_	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	~3.5	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	~9223372036854775808_	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~92233720368547758080_	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	~1	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	~Empty	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	~2147483648_	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	~9223372036854775806_	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~qwertyuiop
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~-9223372036854775808_	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~-9223372036854775809_	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~q
+MANUFACTURER	Intel	_1	C3C3C3	~-21474836480_	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	~qwe123	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	~3.5	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~9223372036854775808_	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	~9223372036854775807_	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	~-1.79769313486231E+308-1	qa	Active
+~200char	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	~Empty	Active
+MANUFACTURER	Intel	_1	C3C3C3	~-2147483648_	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	~1.7976931348623157E308+1	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~$%^
+MANUFACTURER	~Empty	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	~qwe123	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~Вася
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~_35	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	~_0	qa	Active
+MANUFACTURER	Intel	~_6	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~qa
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~9223372036854775807_	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~qwertyuio
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	~Вася	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~-92233720368547758080_	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	~-92233720368547758080_	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	qa	Intel	1100_	~400char	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	~Вася	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	~21474836470_	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	~400char	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~Empty
+MANUFACTURER	Intel	~Вася	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~Empty	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	~256char	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+~Empty	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	~Empty	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	~-1.7976931348623157*10E309	qa	Active
+MANUFACTURER	~256char	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	~qwe123	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	~-2147483649_	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~Вася	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~Inactive
+MANUFACTURER	Intel	_1	~400char	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	~$%^	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	~256char	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	~_0	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	qa	Intel	1100_	~256char	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	~2049char	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	~Empty	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~qwertyuiopasdfghjk
+MANUFACTURER	Intel	~92233720368547758080_	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~_0	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	~1.7976931348623157*10E309	qa	Active
+~151char	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	~256char	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	~9223372036854775806_	335.5	HP Pavilion 15t	Active
+MANUFACTURER	Intel	_1	C3C3C3	~-2147483647_	GRAY	qa	1100_	qa	_1	335.5	qa	Active
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	~qwertyuiopa
+MANUFACTURER	Intel	_1	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	~$%^	qa	Active
+MANUFACTURER	Intel	~-9223372036854775809_	C3C3C3	_1	GRAY	Intel	1100_	DD3A5B##1101	_1	335.5	HP Pavilion 15t	Active
