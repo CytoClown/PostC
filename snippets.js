@@ -1,11 +1,11 @@
 // Test for POST method
-
+// Status code checking
 pm.test("Status code is correct", function () {
     pm.expect(pm.response.code).to.be.oneOf([200, 400]);
 });
 
 var jsonData = pm.response.json();
-
+// Json schema validation
 var schema = 
 {
     "type":"object",
@@ -131,7 +131,7 @@ var schema =
 
 pm.test("JSON schema validation", function(){
         pm.expect(tv4.validate(jsonData, schema)).to.be.true});
-
+// Data validation
 pm.test("Check 'attributeName'", function() {
          pm.expect(jsonData.attributes[0].attributeName).to.eql("ASDF")}),
     pm.test("Check 'attributeValue'", function() {
